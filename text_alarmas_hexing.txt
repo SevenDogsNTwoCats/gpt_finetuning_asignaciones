@@ -1,0 +1,98 @@
+Name/salto/Explaining/salto/Explicación
+'Watchdog Error/Exception Reset'/salto/Indicates a watchdog reset or a hardware reset of the microcontroller/salto/Indica un reinicio del perro guardián o un reinicio del hardware del microcontrolador.
+'Voltage Unbalance Start'/salto/The three phase voltage are unbalanced. If the voltage in any direction exceeds 30% of the voltage in other directions and continues for 60 seconds, this event will occur./salto/La tensión trifásica está desequilibrada. Si el voltaje en cualquier dirección excede el 30% del voltaje en otras direcciones y continúa durante 60 segundos, ocurrirá este evento.
+'Voltage Unbalance End'/salto/Indicates the end of a period of voltage imbalance./salto/Indica el final de un período de desequilibrio de tensión.
+'Under Voltage L3 Start'/salto/L3 phase Voltage less than 60V and continues for 60 seconds/salto/Voltaje de fase L3 inferior a 60 V y continúa durante 60 segundos
+'Under Voltage L3 End'/salto/L3 phase Voltage more than 60V and continues for 60 seconds/salto/Voltaje de fase L3 superior a 60 V y continúa durante 60 segundos
+'Under Voltage L2 Start'/salto/L2 phase Voltage less than 60V and continues for 60 seconds/salto/Voltaje de fase L2 inferior a 60 V y continúa durante 60 segundos
+'Under Voltage L2 End'/salto/L2 phase Voltage more than 60V and continues for 60 seconds/salto/Voltaje de fase L2 superior a 60 V y continúa durante 60 segundos
+'Under Voltage L1 Start'/salto/L1 phase Voltage less than 60V and continues for 60 seconds/salto/Voltaje de fase L1 inferior a 60 V y continúa durante 60 segundos
+'Under Voltage L1 End'/salto/L1 phase Voltage more than 60V and continues for 60 seconds/salto/Voltaje de fase L1 superior a 60 V y continúa durante 60 segundos
+'Terminal Cover Opened'/salto/Meter Terminal cover opened and continues for 3 seconds/salto/La cubierta del terminal del medidor se abrió y continúa durante 3 segundos.
+'Terminal Cover Closed'/salto/Meter Terminal cover closed and continues for 3 seconds/salto/La cubierta del terminal del medidor está cerrada y continúa durante 3 segundos.
+'Temperature over Limiter Threshold Start'/salto/Meter Temperature over than 65℃ continues for 60 seconds/salto/La temperatura del medidor superior a 65 ℃ continúa durante 60 segundos
+'Temperature over Limiter Threshold End'/salto/Meter Temperature less than 65℃ continues for 60 seconds/salto/La temperatura del medidor inferior a 65 ℃ continúa durante 60 segundos
+'Tariff Activation Event'/salto/Passive Tou Activation/salto/Activación Tou Pasiva
+'RTC Error'/salto/RTC hard- Clock error/salto/Error de reloj duro RTC
+'Reverse Phase Sequence of Voltage Start'/salto/Any one of the three phases has reverse voltage/salto/Cualquiera de las tres fases tiene voltaje inverso.
+'Reverse Phase Sequence of Voltage End'/salto/All of the three phases has forward/salto/Las tres fases tienen por delante
+'Reverse Energy L3 Start'/salto/L3 phase has reverse energy/salto/La fase L3 tiene energía inversa.
+'Reverse Energy L3 End'/salto/L3 phase has forward energy/salto/La fase L3 tiene energía directa
+'Reverse Energy L2 Start'/salto/L2 phase has reverse energy/salto/La fase L2 tiene energía inversa.
+'Reverse Energy L2 End'/salto/L2 phase has forward energy/salto/La fase L2 tiene energía directa
+'Reverse Energy L1 Start'/salto/L1 phase has reverse energy/salto/La fase L1 tiene energía inversa.
+'Reverse Energy L1 End'/salto/L1 phase has forward energy/salto/La fase L1 tiene energía directa
+'Reverse Current L3 Start'/salto/L3 phase has reverse current/salto/La fase L3 tiene corriente inversa
+'Reverse Current L3 End'/salto/L3 phase has forward current/salto/La fase L3 tiene corriente directa
+'Reverse Current L2 Start'/salto/L2 phase has reverse current/salto/La fase L2 tiene corriente inversa
+'Reverse Current L2 End'/salto/L2 phase has forward current/salto/La fase L2 tiene corriente directa
+'Reverse Current L1 Start'/salto/L1 phase has reverse current/salto/La fase L1 tiene corriente inversa
+'Reverse Current L1 End'/salto/L1 phase has forward current/salto/La fase L1 tiene corriente directa
+'Replace Battery'/salto/Meter battery change./salto/Cambio de batería del medidor.
+'Power Up (Short Power Failure)'/salto/Meter power up less than 5s/salto/El medidor se enciende en menos de 5 s.
+'Power Up (Long Power Failure)'/salto/Meter power up/salto/Encendido del medidor
+'Power Unbalance Start'/salto/As same as Voltage Unbalance/salto/Igual que el desequilibrio de voltaje
+'Power Unbalance End'/salto/As same as Voltage Unbalance/salto/Igual que el desequilibrio de voltaje
+'Power Down (Short Power Failure)'/salto/Meter power down less than 5s/salto/El medidor se apaga en menos de 5 segundos
+'Power Down (Long Power Failure)'/salto/Meter power down/salto/Apagado del medidor
+'Phase Failure L3 Start'/salto/Any phase Voltage more than 29V and L3 phase Voltage less than 40V and L3 phase current less than 0.05A continues for 3 seconds/salto/Cualquier voltaje de fase superior a 29 V y voltaje de fase L3 inferior a 40 V y corriente de fase L3 inferior a 0,05 A continúa durante 3 segundos
+'Phase Failure L3 End'/salto/L3 phase Voltage more than 40V or L3 phase current more than 0.05A continues for 3 seconds/salto/El voltaje de la fase L3 superior a 40 V o la corriente de la fase L3 superior a 0,05 A continúa durante 3 segundos
+'Phase Failure L2 Start'/salto/Any phase Voltage more than 29V and L2 phase Voltage less than 40V and L2 phase current less than 0.05A continues for 3 seconds/salto/Cualquier voltaje de fase superior a 29 V y voltaje de fase L2 inferior a 40 V y corriente de fase L2 inferior a 0,05 A continúa durante 3 segundos
+'Phase Failure L2 End'/salto/L2 phase Voltage more than 40V or L2 phase current more than 0.05A continues for 3 seconds/salto/El voltaje de la fase L2 superior a 40 V o la corriente de la fase L2 superior a 0,05 A continúa durante 3 segundos
+'Phase Failure L1 Start'/salto/Any phase Voltage more than 29V and L1 phase Voltage less than 40V and L1 phase current less than 0.05A continues for 3 seconds/salto/Cualquier voltaje de fase superior a 29 V y voltaje de fase L1 inferior a 40 V y corriente de fase L1 inferior a 0,05 A continúa durante 3 segundos
+'Phase Failure L1 End'/salto/L1 phase Voltage more than 40V or L1 phase current more than 0.05A continues for 3 seconds/salto/El voltaje de la fase L1 superior a 40 V o la corriente de la fase L1 superior a 0,05 A continúa durante 3 segundos
+'Passive TOU Programmed'/salto/Passive TOU Programmed/salto/TOU pasivo programado
+'Parameter Programming'/salto/Some Parameter changed/salto/Algún parámetro cambió
+'Overload Start'/salto/Overload 1000W continues for 30 seconds/salto/La sobrecarga de 1000 W continúa durante 30 segundos.
+'Overload End'/salto/Underload 1000W continues for 180 seconds/salto/La subcarga de 1000 W continúa durante 180 segundos
+'Over Voltage L3 Start'/salto/L3 phase Voltage more than 76V and continues for 60 seconds/salto/Voltaje de fase L3 superior a 76 V y continúa durante 60 segundos
+'Over Voltage L3 End'/salto/L3 phase Voltage less than 76V and continues for 60 seconds/salto/Voltaje de fase L3 inferior a 76 V y continúa durante 60 segundos
+'Over Voltage L2 Start'/salto/L2 phase Voltage more than 76V and continues for 60 seconds/salto/Voltaje de fase L2 superior a 76 V y continúa durante 60 segundos
+'Over Voltage L2 End'/salto/L2 phase Voltage less than 76V and continues for 60 seconds/salto/Voltaje de fase L2 inferior a 76 V y continúa durante 60 segundos
+'Over Voltage L1 Start'/salto/L1 phase Voltage more than 76V and continues for 60 seconds/salto/Voltaje de fase L1 superior a 76 V y continúa durante 60 segundos
+'Over Voltage L1 End'/salto/L2 phase Voltage less than 76V and continues for 60 seconds/salto/Voltaje de fase L2 inferior a 76 V y continúa durante 60 segundos
+'Over Current L3 Start'/salto/L3 phase Current more than 12A and continues for 30 seconds/salto/Fase L3 Corriente superior a 12 A y continúa durante 30 segundos
+'Over Current L3 End'/salto/L3 phase Current less than 12A and continues for 30 seconds/salto/Fase L3 Corriente inferior a 12 A y continúa durante 30 segundos.
+'Over Current L2 Start'/salto/L2 phase Current more than 12A and continues for 30 seconds/salto/Fase L2 Corriente superior a 12 A y continúa durante 30 segundos
+'Over Current L2 End'/salto/L2 phase Current less than 12A and continues for 30 seconds/salto/Fase L2 Corriente inferior a 12 A y continúa durante 30 segundos.
+'Neutral Line Missing Start'/salto/Neutral Line miss/salto/Fallo de línea neutral
+'Neutral Line Missing End'/salto/Neutral Line In/salto/Entrada de línea neutra
+'Module Power Up'/salto/Module power on/salto/Encendido del módulo
+'Module Power Down'/salto/Module power off/salto/Apagado del módulo
+'Module Cover Open Start'/salto/Module Cover Open and continues for 3 seconds/salto/Cubierta del módulo abierta y continúa durante 3 segundos.
+'Module Cover Open End'/salto/Module Cover Close and continues for 3 seconds/salto/La cubierta del módulo se cierra y continúa durante 3 segundos.
+'Missing Voltage L3 Start'/salto/L3 phase Voltage less than 60V and L3 phase current more than 0.025A continues for 60 seconds/salto/El voltaje de la fase L3 inferior a 60 V y la corriente de la fase L3 superior a 0,025 A continúan durante 60 segundos
+'Missing Voltage L3 End'/salto/L3 phase Voltage more than 62V and continues for 60 seconds/salto/Voltaje de fase L3 superior a 62 V y continúa durante 60 segundos
+'Missing Voltage L2 Start'/salto/L2 phase Voltage less than 60V and L2 phase current more than 0.025A continues for 60 seconds/salto/El voltaje de fase L2 inferior a 60 V y la corriente de fase L2 superior a 0,025 A continúan durante 60 segundos
+'Missing Voltage L2 End'/salto/L2 phase Voltage more than 62V and continues for 60 seconds/salto/Voltaje de fase L2 superior a 62 V y continúa durante 60 segundos
+'Missing Voltage L1 Start'/salto/L1 phase Voltage less than 60V and L1 phase current more than 0.025A continues for 60 seconds/salto/El voltaje de la fase L1 inferior a 60 V y la corriente de la fase L1 superior a 0,025 A continúan durante 60 segundos
+'Missing Voltage L1 End'/salto/L1 phase Voltage more than 62V and continues for 60 seconds/salto/Voltaje de fase L1 superior a 62 V y continúa durante 60 segundos
+'Missing Current L3 Start'/salto/L3 phase current less than 1%Ib and continues for 60 seconds/salto/Corriente de fase L3 inferior al 1 % Ib y continúa durante 60 segundos
+'Missing Current L3 End'/salto/L3 phase current less than 10%Ib and continues for 60 seconds/salto/Corriente de fase L3 inferior al 10 % Ib y continúa durante 60 segundos
+'Missing Current L2 Start'/salto/L2 phase current less than 1%Ib and continues for 60 seconds/salto/Corriente de fase L2 inferior al 1 % Ib y continúa durante 60 segundos
+'Missing Current L2 End'/salto/L2 phase current less than 10%Ib and continues for 60 seconds/salto/Corriente de fase L2 inferior al 10 % Ib y continúa durante 60 segundos
+'Missing Current L1 Start'/salto/L1 phase current less than 1%Ib and continues for 60 seconds/salto/Corriente de fase L1 inferior al 1 % Ib y continúa durante 60 segundos
+'Missing Current L1 End'/salto/L2 phase current less than 10%Ib and continues for 60 seconds/salto/Corriente de fase L2 inferior al 10 % Ib y continúa durante 60 segundos
+'Meter Box Cover Open'/salto/Meter Box Cover Open/salto/Cubierta de la caja del medidor abierta
+'Meter Box Cover Closed'/salto/Meter Box Cover Close/salto/Cerrar la tapa de la caja del medidor
+'Measurement System Error'/salto/Meter Measurement error/salto/Error de medición del medidor
+'Manually Demand Reset'/salto/Demand Reset by manual locally/salto/Restablecimiento de demanda manual localmente
+'Low Power Factor Start'/salto/power factor less than 0.3 and continues for 60 seconds/salto/factor de potencia inferior a 0,3 y continúa durante 60 segundos
+'Low Power Factor End'/salto/power factor more than 0.3 and continues for 60 seconds/salto/factor de potencia superior a 0,3 y continúa durante 60 segundos
+'Low Battery Voltage'/salto/Battery voltage/salto/Voltaje de la batería
+'Load Profile Reset'/salto/Load Profile stepup/salto/Cargar perfil mejorado
+'Key Update'/salto/Meter key changed/salto/Clave del medidor cambiada
+'Frequency Abnormal Start'/salto/low(99%) or high(101%) frequency and continues for 60 seconds/salto/frecuencia baja (99%) o alta (101%) y continúa durante 60 segundos
+'Frequency Abnormal End'/salto/high(99%) and low(101%) frequency and continues for 60 seconds/salto/frecuencia alta (99%) y baja (101%) y continúa durante 60 segundos
+'Current Unbalance Start'/salto/The three phase current are unbalanced over than 30%. If the current in any direction exceeds 5%Ib of the current in other directions and continues for 60 seconds/salto/La corriente trifásica está desequilibrada en más del 30%. Si la corriente en cualquier dirección excede el 5%Ib de la corriente en otras direcciones y continúa durante 60 segundos
+'Current Unbalance End'/salto/The three phase current are unbalanced less than 30%. If the current in any direction exceeds 5%Ib of the current in other directions and continues for 60 seconds/salto/La corriente trifásica está desequilibrada menos del 30%. Si la corriente en cualquier dirección excede el 5%Ib de la corriente en otras direcciones y continúa durante 60 segundos
+'Cumulated Duration of Program'/salto/Not Support/salto/No se puede Usar para esta solución
+'CT or PT Ratio Modified'/salto/CT or PT Ratio Modified/salto/Relación CT o PT modificada
+'Communication Restored of Module'/salto/communication event: module recovery/salto/evento de comunicación: recuperación del módulo
+'Communication Abnormal of Module'/salto/communication event: module abnormal/salto/evento de comunicación: módulo anormal
+'Clock Adjusted (Old Date/Time)'/salto/Clock changed before date/time/salto/El reloj cambió antes de la fecha/hora
+'Clock Adjusted (New Date/Time)'/salto/Clock changed to date/time/salto/Reloj cambiado a fecha/hora
+'Bypass Start'/salto/Any phase current more than 0.5A and max phase current / Neutral current more than 16% and continues for 60 seconds/salto/Cualquier corriente de fase superior a 0,5 A y corriente de fase máxima/corriente neutra superior al 16 % y continúa durante 60 segundos
+'Bypass End'/salto/Any phase current less than 0.5A or max phase current / Neutral current less than 16% and continues for 60 seconds/salto/Cualquier corriente de fase inferior a 0,5 A o corriente de fase máxima/corriente neutra inferior al 16 % y continúa durante 60 segundos
+'Billing'/salto/Occurs on the first of every month.monthly billing frezon/salto/Ocurre el primero de cada mes. Frezon de facturación mensual
+'Battery Voltage Recover'/salto/Battery voltage Recover/salto/Recuperar voltaje de la batería
